@@ -1,0 +1,3 @@
+/home/ale/Documents/paoo/tema1/build/CMakeFiles/MyProject.dir
+/home/ale/Documents/paoo/tema1/build/CMakeFiles/edit_cache.dir
+/home/ale/Documents/paoo/tema1/build/CMakeFiles/rebuild_cache.dir
