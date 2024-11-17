@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/GalleryApp.dir/main.cpp.o CMakeFiles/GalleryApp.dir/Image.cpp.o CMakeFiles/GalleryApp.dir/Gallery.cpp.o -o GalleryApp 
