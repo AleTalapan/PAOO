@@ -1,0 +1,3 @@
+/home/ale/Documents/paoo/tema3/build/CMakeFiles/Carte.dir
+/home/ale/Documents/paoo/tema3/build/CMakeFiles/edit_cache.dir
+/home/ale/Documents/paoo/tema3/build/CMakeFiles/rebuild_cache.dir
